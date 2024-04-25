@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laba2", "laba2.csproj", "{421A8D51-CDB6-4A3E-9475-E9B70A4FD89B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laba2_sync_method", "..\laba2_sync_method\laba2_sync_method.csproj", "{6785150F-F317-4E42-9BC5-10AB0C6D4CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421A8D51-CDB6-4A3E-9475-E9B70A4FD89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421A8D51-CDB6-4A3E-9475-E9B70A4FD89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421A8D51-CDB6-4A3E-9475-E9B70A4FD89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421A8D51-CDB6-4A3E-9475-E9B70A4FD89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6785150F-F317-4E42-9BC5-10AB0C6D4CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6785150F-F317-4E42-9BC5-10AB0C6D4CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6785150F-F317-4E42-9BC5-10AB0C6D4CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6785150F-F317-4E42-9BC5-10AB0C6D4CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D292906-BDA8-40CF-86C5-22D568B89AAD}
+	EndGlobalSection
+EndGlobal

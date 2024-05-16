@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\zamoc\\Desktop\\oop\\labsOOP\\laba_2\\laba2_async_method\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{421A8D51-CDB6-4A3E-9475-E9B70A4FD89B}|laba2.csproj|c:\\users\\zamoc\\desktop\\oop\\labsoop\\laba_2\\laba2_async_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{421A8D51-CDB6-4A3E-9475-E9B70A4FD89B}|laba2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6785150F-F317-4E42-9BC5-10AB0C6D4CDA}|..\\laba2_sync_method\\laba2_sync_method.csproj|c:\\users\\zamoc\\desktop\\oop\\labsoop\\laba_2\\laba2_sync_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6785150F-F317-4E42-9BC5-10AB0C6D4CDA}|..\\laba2_sync_method\\laba2_sync_method.csproj|c:\\users\\zamoc\\desktop\\oop\\labsoop\\laba_2\\laba2_sync_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{421A8D51-CDB6-4A3E-9475-E9B70A4FD89B}|laba2.csproj|c:\\users\\zamoc\\desktop\\oop\\labsoop\\laba_2\\laba2_async_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421A8D51-CDB6-4A3E-9475-E9B70A4FD89B}|laba2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,11 +17,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zamoc\\Desktop\\oop\\labsOOP\\laba_2\\laba2_async_method\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -29,12 +29,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T19:54:45.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T19:54:45.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zamoc\\Desktop\\oop\\labsOOP\\laba_2\\laba2_sync_method\\Program.cs",
               "RelativeDocumentMoniker": "..\\laba2_sync_method\\Program.cs",

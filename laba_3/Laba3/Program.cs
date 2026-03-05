@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Laba3
 {
-	public class Program
+	public partial class Program
 	{
 		public static void Main(string[] args)
 		{
